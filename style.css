@@ -49,7 +49,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(images/background.jpeg) no-repeat;
+    background: url(ossman1.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -65,7 +65,7 @@ section {
     display: inline-block;
     margin-top: 10px;
     color: #4e9eff;
-    font-size: 3em;
+    font-size: 2em;
     font-weight: 600;
 }
 
