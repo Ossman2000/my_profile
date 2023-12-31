@@ -8,7 +8,11 @@
     scroll-behavior: smooth; 
 }
 
-
+a {
+    text-decoration: none;
+    color: #000;
+  }
+  
 header {
     background-color: #f0f0f0;
     width: 100%;
